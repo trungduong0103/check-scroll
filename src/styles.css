@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+#outerbox {
+  height: 200px;
+  width: 350px;
+  border: 1px dashed black;
+  overflow-y: scroll;
+}
